@@ -1,0 +1,22 @@
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\bin\Debug\segundoejercicioForms.exe.config
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\bin\Debug\segundoejercicioForms.exe
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\bin\Debug\segundoejercicioForms.pdb
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.Form1.resources
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.exe
+C:\Users\USUARIO\Desktop\curso C# nivel 2\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.pdb
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\bin\Debug\segundoejercicioForms.exe.config
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\bin\Debug\segundoejercicioForms.exe
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\bin\Debug\segundoejercicioForms.pdb
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.Form1.resources
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.exe
+C:\Users\USUARIO\Desktop\curso C# nivel 2\Unidad 04\segundaAplicacion\segundoejercicioForms\obj\Debug\segundoejercicioForms.pdb
